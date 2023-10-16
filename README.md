@@ -17,7 +17,7 @@ Project created with:
 - Node.js
 
 ### Setup
-To run this project, install it locally using node and the file local:
+To run this project, install it locally using node and the local file:
 
 - $ cd ../folder
 - $ node script.js
