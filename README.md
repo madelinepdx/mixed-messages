@@ -6,7 +6,7 @@
 - Develop locally on your computer
 
 # My project:
-### Random idioms in Spain with:
+### Random, funny idioms in Spain including:
 - English translation
 - literal translation
 - ASCII art to match
